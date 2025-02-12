@@ -1,0 +1,38 @@
+{
+  "en": [
+    {
+      "created_date": 1739121170,
+      "update_name": "Second update",
+      "update_summary": "Second summary"
+    },
+    {
+      "created_date": 1739121170,
+      "update_name": "First update",
+      "update_summary": "First summary"
+    }
+  ],
+  "de": [
+    {
+      "created_date": 1739121170,
+      "update_name": "Zweites Update",
+      "update_summary": "Zweite Zusammenfassung"
+      },
+      {
+      "created_date": 1739121170,
+      "update_name": "Erstes Update",
+      "update_summary": "Erste Zusammenfassung"
+      }
+  ],
+  "ru": [
+    {
+      "created_date": 1739121170,
+      "update_name": "Второе обновление",
+      "update_summary": "Второе резюме"
+      },
+      {
+      "created_date": 1739121170,
+      "update_name": "Первое обновление",
+      "update_summary": "Первое резюме"
+      }
+  ]
+}
